@@ -40,8 +40,8 @@ app.use(express.static(path.join(__dirname, 'FrontEnd/build')));
 
 // Save the contact forms
 app.use(cors({
-    origin:['http://localhost:3001'],
-    methods:['GET', 'POST','PUT','DELETE'],
+    // origin:['http://localhost:3001'],
+    // methods:['GET', 'POST','PUT','DELETE'],
   credentials:true
 }));
 
