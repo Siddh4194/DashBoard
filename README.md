@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Website Monitoring Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The Website Monitoring Dashboard is a data-driven web application designed to provide website owners with a user-friendly management interface to monitor business performance. The dashboard is built using React.js for the frontend, Bootstrap-5 for styling, and NIVO Charts for effective data visualization. The backend is powered by Node.js and MongoDB, ensuring a robust and scalable solution. Secure session management is implemented using Passport.js and Session.js.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **User-Friendly Dashboard:** An intuitive dashboard that allows website owners to easily monitor key performance metrics.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Data Visualization:** Utilizes NIVO Charts to provide visually appealing and insightful data representations.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Secure Session Management:** Implements Passport.js and Session.js to ensure secure user sessions.
 
-### `npm test`
+- **Technologies Used:**
+  - Frontend: React.js, Bootstrap-5, NIVO Charts
+  - Backend: Node.js, MongoDB
+  - Authentication: Passport.js, Session.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+![Dashboard](/dashscreen/Screenshot(86).png)
+![Dashboard](/dashscreen/Screenshot(92).png)
+![Dashboard](/dashscreen/Screenshot(95).png)
+![Dashboard](/dashscreen/Screenshot(93).png)
+*Overview of the monitoring dashboard.*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Data Visualization](/screenshots/data-visualization.png)
+*Example of data visualization using NIVO Charts.*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+To run the Website Monitoring Dashboard locally, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/website-monitoring-dashboard.git
