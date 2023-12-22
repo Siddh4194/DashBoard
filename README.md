@@ -20,7 +20,7 @@ The Website Monitoring Dashboard is a data-driven web application designed to pr
 ## Screenshots
 
 ![Dashboard](https://media.licdn.com/dms/image/D562DAQFw-xqESyEXWA/profile-treasury-image-shrink_800_800/0/1703222300605?e=1703840400&v=beta&t=6BLm6ju9P7cQL-CCKdAeQHWQAtbMA6ZawUie8lSYJYE)
-![Dashboard](/dashscreen/Screenshot(92).png)
+![Dashboard](https://media.licdn.com/dms/image/D562DAQHD17yCJmRyvA/profile-treasury-image-shrink_800_800/0/1703227350467?e=1703840400&v=beta&t=F3D5W1iLJveu41xRCKkYvClq5-WEgR1nFWthfauDopY)
 ![Dashboard](/dashscreen/Screenshot(95).png)
 ![Dashboard](/dashscreen/Screenshot(93).png)
 *Overview of the monitoring dashboard.*
