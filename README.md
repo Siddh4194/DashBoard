@@ -19,7 +19,7 @@ The Website Monitoring Dashboard is a data-driven web application designed to pr
 
 ## Screenshots
 
-![Dashboard](/dashscreen/Screenshot(86).png)
+![Dashboard](https://www.linkedin.com/in/siddhant-kadam/details/projects/1979419201/multiple-media-viewer?profileId=ACoAADgHN5sBPLz0RMTV8b5NZqPsZsYXYMoNsDU&treasuryMediaId=1635554712643&type=IMAGE&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_media_list_details_modal%3B0KWRnfdDTk2mRi6Sg5rbuQ%3D%3D)
 ![Dashboard](/dashscreen/Screenshot(92).png)
 ![Dashboard](/dashscreen/Screenshot(95).png)
 ![Dashboard](/dashscreen/Screenshot(93).png)
